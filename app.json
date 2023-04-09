@@ -27,6 +27,14 @@
       "supportsTablet": true
     },
     "description": "A Minesweeper game built with React Native",
-    "githubUrl": "https://github.com/junchenjun/React-Native-Minesweeper"
+    "githubUrl": "https://github.com/junchenjun/React-Native-Minesweeper",
+    "extra": {
+      "eas": {
+        "projectId": "5a13b9f4-f101-444a-9b4e-445c9aab666f"
+      }
+    },
+    "android": {
+      "package": "com.jrodriguezdiazz.Minesweeper"
+    }
   }
 }
